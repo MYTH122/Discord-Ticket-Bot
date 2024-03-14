@@ -1,13 +1,27 @@
 {
-  "TOKEN": "توكن_البوت",
-  "ticketCategoryID": "ايدي_الكاتاجوري",
-  "ticketNumber": 2,
-  "BACKGROUND": "صورة_الباجراوند",
-  "SECTIONS": [
-    {
-      "name": "اسم_القسم",
-      "roleID": "ايدي_الرتبة",
-      "image": "صورة_القسم"
-    }
-  ]
+ "ticketCategoryID": "1217244903256358912",
+ "ticketNumber": 110,
+ "BACKGROUND": "https://media.discordapp.net/attachments/1217445068131008583/1217445149324611625/Black_Simple_Geometric_Discord_Profile_Banner.png?ex=66040d26&is=65f19826&hm=9dbe5b1624163ef95eb51da29a2c28643c04a872c464e4e4ff1b21b11f82e9da&=&format=webp&quality=lossless",
+ "SECTIONS": [
+  {
+   "name": "شكوى",
+   "roleID": "1217445693896130651",
+   "image": "https://media.discordapp.net/attachments/1217445068131008583/1217445148955377764/Black_Simple_Geometric_Discord_Profile_Banner_1.png?ex=66040d26&is=65f19826&hm=3ac6e799d2bc1ed370d1664b700ce357608b08e64c7c783adfae4e9fb52cbdf2&=&format=webp&quality=lossless"
+  },
+  {
+   "name": "استفسار عام",
+   "roleID": "1217445693896130651",
+   "image": "https://media.discordapp.net/attachments/1217445068131008583/1217445148955377764/Black_Simple_Geometric_Discord_Profile_Banner_1.png?ex=66040d26&is=65f19826&hm=3ac6e799d2bc1ed370d1664b700ce357608b08e64c7c783adfae4e9fb52cbdf2&=&format=webp&quality=lossless"
+  },
+  {
+   "name": "طلب رول تفاعلي",
+   "roleID": "1217445693896130651",
+   "image": "https://media.discordapp.net/attachments/1217445068131008583/1217445148955377764/Black_Simple_Geometric_Discord_Profile_Banner_1.png?ex=66040d26&is=65f19826&hm=3ac6e799d2bc1ed370d1664b700ce357608b08e64c7c783adfae4e9fb52cbdf2&=&format=webp&quality=lossless"
+  },
+  {
+   "name": "تقديم ادارة",
+   "roleID": "1217216399563558962",
+   "image": "https://media.discordapp.net/attachments/1217445068131008583/1217445148955377764/Black_Simple_Geometric_Discord_Profile_Banner_1.png?ex=66040d26&is=65f19826&hm=3ac6e799d2bc1ed370d1664b700ce357608b08e64c7c783adfae4e9fb52cbdf2&=&format=webp&quality=lossless"
+  }
+ ]
 }
